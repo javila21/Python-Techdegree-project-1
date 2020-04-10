@@ -1,2 +1,2 @@
-# Python Techdegree project 1
- 1st Python techdegree project
+# Python Techdegree Project 1
+ 1st Python Techdegree Project
