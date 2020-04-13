@@ -59,7 +59,7 @@ while True:
     
     while new_guess != random_number:
         try:
-            new_guess = int(input("Random # is:{} Pick a number between 1 and 10: ".format(random_number)))
+            new_guess = int(input("Pick a number between 1 and 10: ".format(random_number)))
         except ValueError:  
             print("That was not a valid input. Please pick a number between 1 and 10")
         else:    
